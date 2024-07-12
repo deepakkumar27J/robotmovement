@@ -1,0 +1,15 @@
+F:\Learning\ASPNET\Web\robotask\robot5by5\obj\Debug\net8.0\robot5by5.GeneratedMSBuildEditorConfig.editorconfig
+F:\Learning\ASPNET\Web\robotask\robot5by5\obj\Debug\net8.0\robot5by5.AssemblyInfoInputs.cache
+F:\Learning\ASPNET\Web\robotask\robot5by5\obj\Debug\net8.0\robot5by5.AssemblyInfo.cs
+F:\Learning\ASPNET\Web\robotask\robot5by5\obj\Debug\net8.0\robot5by5.csproj.CoreCompileInputs.cache
+F:\Learning\ASPNET\Web\robotask\robot5by5\obj\Debug\net8.0\robot5by5.sourcelink.json
+F:\Learning\ASPNET\Web\robotask\robot5by5\bin\Debug\net8.0\robot5by5.exe
+F:\Learning\ASPNET\Web\robotask\robot5by5\bin\Debug\net8.0\robot5by5.deps.json
+F:\Learning\ASPNET\Web\robotask\robot5by5\bin\Debug\net8.0\robot5by5.runtimeconfig.json
+F:\Learning\ASPNET\Web\robotask\robot5by5\bin\Debug\net8.0\robot5by5.dll
+F:\Learning\ASPNET\Web\robotask\robot5by5\bin\Debug\net8.0\robot5by5.pdb
+F:\Learning\ASPNET\Web\robotask\robot5by5\obj\Debug\net8.0\robot5by5.dll
+F:\Learning\ASPNET\Web\robotask\robot5by5\obj\Debug\net8.0\refint\robot5by5.dll
+F:\Learning\ASPNET\Web\robotask\robot5by5\obj\Debug\net8.0\robot5by5.pdb
+F:\Learning\ASPNET\Web\robotask\robot5by5\obj\Debug\net8.0\robot5by5.genruntimeconfig.cache
+F:\Learning\ASPNET\Web\robotask\robot5by5\obj\Debug\net8.0\ref\robot5by5.dll

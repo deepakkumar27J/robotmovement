@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("robot5by5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07c5666f844a38fd988c7e53c5d96137aca1577c")]
 [assembly: System.Reflection.AssemblyProductAttribute("robot5by5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("robot5by5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
